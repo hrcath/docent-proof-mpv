@@ -1,0 +1,9 @@
+# mpv binaries are downloaded separately (see README)
+mpv/*
+!mpv/PUT-MPV-HERE.txt
+
+# Runtime logs
+*.log
+
+# Local media / test folders
+docent-proof/

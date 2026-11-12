@@ -1,0 +1,3 @@
+Extract the mpv for Windows build here so that mpv.exe is at
+  docent-proof-mpv\mpv\mpv.exe
+See README.md, Installation step 2.
